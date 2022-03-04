@@ -1,0 +1,209 @@
+"Unit_of_Analysis","Coach_ID","Name","Age","Hired","Year","Number_of_Interviews_That_Year","Previous_Job","Previous_Job_Coded","NFL_Playing_Experience","NFL_Coaching_Experience","Total_NFL_Experience","Black","White","Minority","OC","DC","HC"
+"Aaron Glenn 2021",1,"Aaron Glenn",48,0,2021,1,"Other NFL Job",5,15,8,23,1,0,1,0,0,0
+"Aaron Glenn 2022",1,"Aaron Glenn",49,0,2022,2,"Defensive Coordinator",4,15,9,24,1,0,1,0,1,0
+"Adam Gase 2015",2,"Adam Gase",36,0,2015,5,"Offensive Coordinator",3,0,12,12,0,1,0,1,0,0
+"Adam Gase 2016",2,"Adam Gase",37,1,2016,4,"Offensive Coordinator",3,0,13,13,0,1,0,1,0,0
+"Adam Gase 2019",2,"Adam Gase",40,1,2019,2,"Head Coach Previous Season",1,0,16,16,0,1,0,0,0,1
+"Anthony Lynn 2015",3,"Anthony Lynn",46,0,2015,1,"Other NFL Job",5,6,15,21,1,0,1,0,0,0
+"Anthony Lynn 2016",3,"Anthony Lynn",47,0,2016,2,"Other NFL Job",5,6,16,22,1,0,1,0,0,0
+"Anthony Lynn 2017",3,"Anthony Lynn",48,1,2017,3,"Head Coach Previous Season",1,6,17,23,1,0,1,0,0,1
+"Arthur Smith 2021",4,"Arthur Smith",38,1,2021,6,"Offensive Coordinator",3,0,12,12,0,1,0,1,0,0
+"Ben McAdoo 2016",5,"Ben McAdoo",38,1,2016,2,"Offensive Coordinator",3,0,12,12,0,1,0,1,0,0
+"Bill Lazor 2019",6,"Bill Lazor",46,0,2019,1,"Offensive Coordinator",3,0,13,13,0,1,0,1,0,0
+"Bill O'Brien 2022",7,"Bill O'Brien",52,0,2022,1,"Former Head Coach",2,0,12,12,0,1,0,0,0,0
+"Bobby Johnson 2018",8,"Bobby Johnson",44,0,2018,1,"Other NFL Job",5,0,8,8,1,0,1,0,0,0
+"Brandon Staley 2021",9,"Brandon Staley",38,1,2021,3,"Defensive Coordinator",4,0,4,4,0,1,0,0,1,0
+"Brian Callahan 2022",10,"Brian Callahan",37,0,2022,1,"Offensive Coordinator",3,0,12,12,0,1,0,1,0,0
+"Brian Daboll 2020",11,"Brian Daboll",44,0,2020,1,"Offensive Coordinator",3,0,19,19,0,1,0,1,0,0
+"Brian Daboll 2021",11,"Brian Daboll",45,0,2021,2,"Offensive Coordinator",3,0,20,20,0,1,0,1,0,0
+"Brian Daboll 2022",11,"Brian Daboll",46,1,2022,3,"Offensive Coordinator",3,0,21,21,0,1,0,1,0,0
+"Brian Flores 2018",12,"Brian Flores",36,0,2018,1,"Other NFL Job",5,0,14,14,1,0,1,0,0,0
+"Brian Flores 2019",12,"Brian Flores",37,1,2019,4,"Other NFL Job",5,0,15,15,1,0,1,0,0,0
+"Brian Flores 2022",12,"Brian Flores",40,0,2022,4,"Head Coach Previous Season",1,0,18,18,1,0,1,0,0,1
+"Bruce Arians 2019",13,"Bruce Arians",66,1,2019,1,"Former Head Coach",2,0,25,25,0,1,0,0,0,0
+"Byron Leftwich 2022",14,"Byron Leftwich",42,0,2022,2,"Offensive Coordinator",3,9,6,15,1,0,1,1,0,0
+"Chip Kelly 2016",15,"Chip Kelly",52,1,2016,1,"Head Coach Previous Season",1,0,3,3,0,1,0,0,0,1
+"Chip Kelly 2017",15,"Chip Kelly",53,0,2017,1,"Head Coach Previous Season",1,0,4,4,0,1,0,0,0,1
+"Chuck Pagano 2019",16,"Chuck Pagano",58,0,2019,2,"Former Head Coach",2,0,16,16,0,1,0,0,0,0
+"Dan Campbell 2016",17,"Dan Campbell",39,0,2016,1,"Head Coach Previous Season",1,10,6,16,0,1,0,0,0,1
+"Dan Campbell 2018",17,"Dan Campbell",41,0,2018,1,"Other NFL Job",5,10,8,18,0,1,0,0,0,0
+"Dan Campbell 2019",17,"Dan Campbell",42,0,2019,3,"Other NFL Job",5,10,9,19,0,1,0,0,0,0
+"Dan Campbell 2021",17,"Dan Campbell",44,1,2021,1,"Other NFL Job",5,10,11,21,0,1,0,0,0,0
+"Dan Mullen 2021",18,"Dan Mullen",48,0,2021,1,"College Coach",6,0,0,0,0,1,0,0,0,0
+"Dan Quinn 2015",19,"Dan Quinn",44,1,2015,5,"Defensive Coordinator",4,0,12,12,0,1,0,0,1,0
+"Dan Quinn 2022",19,"Dan Quinn",51,0,2022,5,"Defensive Coordinator",4,0,19,19,0,1,0,0,1,0
+"Darrell Bevell 2015",20,"Darrell Bevell",45,0,2015,2,"Offensive Coordinator",3,0,15,15,0,1,0,1,0,0
+"Darrell Bevell 2021",20,"Darrell Bevell",51,0,2021,1,"Head Coach Previous Season",1,0,20,20,0,1,0,0,0,1
+"Darrell Bevell 2022",20,"Darrell Bevell",52,0,2022,1,"Head Coach Previous Season",1,0,21,21,0,1,0,0,0,1
+"Darren Rizzi 2019",21,"Darren Rizzi",48,0,2019,1,"Other NFL Job",5,0,11,11,0,1,0,0,0,0
+"Darren Rizzi 2022",21,"Darren Rizzi",51,0,2022,1,"Other NFL Job",5,0,14,14,0,1,0,0,0,0
+"Darrin Simmons 2019",22,"Darrin Simmons",45,0,2019,1,"Other NFL Job",5,0,0,0,0,1,0,0,0,0
+"Dave Toub 2017",23,"Dave Toub",54,0,2017,2,"Other NFL Job",5,0,16,16,0,1,0,0,0,0
+"David Culley 2021",24,"David Culley",65,1,2021,1,"Other NFL Job",5,0,27,27,1,0,1,0,0,0
+"DeMeco Ryans 2022",25,"DeMeco Ryans",37,0,2022,1,"Defensive Coordinator",4,10,5,15,1,0,1,0,1,0
+"Dennis Allen 2019",26,"Dennis Allen",46,0,2019,1,"Defensive Coordinator",4,0,17,17,0,1,0,0,1,0
+"Dennis Allen 2021",26,"Dennis Allen",48,0,2021,1,"Defensive Coordinator",4,0,19,19,0,1,0,0,1,0
+"Dennis Allen 2022",26,"Dennis Allen",49,1,2022,1,"Defensive Coordinator",4,0,20,20,0,1,0,0,1,0
+"Dirk Koetter 2016",27,"Dirk Koetter",57,1,2016,2,"Offensive Coordinator",3,0,9,9,0,1,0,1,0,0
+"Don Martindale 2020",28,"Don Martindale",56,0,2020,1,"Defensive Coordinator",4,0,15,15,0,1,0,0,1,0
+"Doug Marrone 2015",29,"Doug Marrone",50,0,2015,4,"Head Coach Previous Season",1,2,9,11,0,1,0,0,0,1
+"Doug Marrone 2016",29,"Doug Marrone",51,0,2016,4,"Other NFL Job",5,2,10,12,0,1,0,0,0,0
+"Doug Marrone 2017",29,"Doug Marrone",52,1,2017,2,"Head Coach Previous Season",1,2,11,13,0,1,0,0,0,1
+"Doug Pederson 2016",30,"Doug Pederson",48,1,2016,1,"Offensive Coordinator",3,10,7,17,0,1,0,1,0,0
+"Doug Pederson 2022",30,"Doug Pederson",54,1,2022,3,"Former Head Coach",2,10,12,22,0,1,0,0,0,0
+"Dowell Loggains 2019",31,"Dowell Loggains",38,0,2019,1,"Offensive Coordinator",3,0,14,14,0,1,0,1,0,0
+"Duce Staley 2016",32,"Duce Staley",40,0,2016,1,"Other NFL Job",5,10,7,17,1,0,1,0,0,0
+"Duce Staley 2021",32,"Duce Staley",45,0,2021,1,"Other NFL Job",5,10,11,21,1,0,1,0,0,0
+"Eric Bieniemy 2019",33,"Eric Bieniemy",49,0,2019,4,"Offensive Coordinator",3,9,11,20,1,0,1,1,0,0
+"Eric Bieniemy 2020",33,"Eric Bieniemy",50,0,2020,2,"Offensive Coordinator",3,9,12,21,1,0,1,1,0,0
+"Eric Bieniemy 2021",33,"Eric Bieniemy",51,0,2021,6,"Offensive Coordinator",3,9,13,22,1,0,1,1,0,0
+"Eric Bieniemy 2022",33,"Eric Bieniemy",52,0,2022,2,"Offensive Coordinator",3,9,14,23,1,0,1,1,0,0
+"Eric Mangini 2015",34,"Eric Mangini",44,0,2015,1,"Other NFL Job",5,0,18,18,0,1,0,0,0,0
+"Eric Studesville 2018",35,"Eric Studesville",50,0,2018,1,"Other NFL Job",5,0,22,22,1,0,1,0,0,0
+"Frank Reich 2015",36,"Frank Reich",53,0,2015,2,"Offensive Coordinator",3,13,9,22,0,1,0,1,0,0
+"Frank Reich 2018",36,"Frank Reich",56,1,2018,1,"Offensive Coordinator",3,13,12,25,0,1,0,1,0,0
+"Freddie Kitchens 2019",37,"Freddie Kitchens",44,1,2019,1,"Offensive Coordinator",3,0,13,13,0,1,0,1,0,0
+"Gary Kubiak 2015",38,"Gary Kubiak",53,1,2015,1,"Offensive Coordinator",3,9,21,30,0,1,0,1,0,0
+"George Edwards 2018",39,"George Edwards",51,0,2018,1,"Defensive Coordinator",4,0,20,20,1,0,1,0,1,0
+"George Edwards 2019",39,"George Edwards",52,0,2019,1,"Defensive Coordinator",4,0,21,21,1,0,1,0,1,0
+"Greg Roman 2015",40,"Greg Roman",42,0,2015,1,"Offensive Coordinator",3,0,14,14,0,1,0,1,0,0
+"Greg Roman 2020",40,"Greg Roman",47,0,2020,1,"Offensive Coordinator",3,0,22,22,0,1,0,1,0,0
+"Gregg Williams 2019",41,"Gregg Williams",60,0,2019,1,"Defensive Coordinator",4,0,28,28,0,1,0,0,1,0
+"Harold Goodwin 2016",42,"Harold Goodwin",42,0,2016,1,"Offensive Coordinator",3,0,12,12,1,0,1,1,0,0
+"Harold Goodwin 2017",42,"Harold Goodwin",43,0,2017,3,"Offensive Coordinator",3,0,13,13,1,0,1,1,0,0
+"Hines Ward 2022",43,"Hines Ward",45,0,2022,1,"College Coach",6,14,2,16,1,0,1,0,0,0
+"Hue Jackson 2015",44,"Hue Jackson",49,0,2015,1,"Offensive Coordinator",3,0,14,14,1,0,1,1,0,0
+"Hue Jackson 2016",44,"Hue Jackson",50,1,2016,2,"Offensive Coordinator",3,0,15,15,1,0,1,1,0,0
+"Hue Jackson 2019",44,"Hue Jackson",53,0,2019,1,"Head Coach Previous Season",1,0,19,19,1,0,1,0,0,1
+"Jack Del Rio 2015",45,"Jack Del Rio",51,1,2015,1,"Defensive Coordinator",4,11,18,29,0,1,0,0,1,0
+"James Bettcher 2018",46,"James Bettcher",39,0,2018,1,"Defensive Coordinator",4,0,6,6,0,1,0,0,1,0
+"Jason Garrett 2021",47,"Jason Garrett",54,0,2021,1,"Offensive Coordinator",3,8,17,25,0,1,0,1,0,0
+"Jerod Mayo 2021",48,"Jerod Mayo",34,0,2021,1,"Other NFL Job",5,8,2,10,1,0,1,0,0,0
+"Jerod Mayo 2022",48,"Jerod Mayo",35,0,2022,2,"Other NFL Job",5,8,3,11,1,0,1,0,0,0
+"Jerome Henderson 2016",49,"Jerome Henderson",46,0,2016,1,"Other NFL Job",5,7,8,15,1,0,1,0,0,0
+"Jim Bob Cooter 2018",50,"Jim Bob Cooter",33,0,2018,1,"Offensive Coordinator",3,0,9,9,0,1,0,1,0,0
+"Jim Caldwell 2019",51,"Jim Caldwell",64,0,2019,4,"Former Head Coach",2,0,17,17,1,0,1,0,0,0
+"Jim Caldwell 2021",51,"Jim Caldwell",66,0,2021,1,"Former Head Coach",2,0,18,18,1,0,1,0,0,0
+"Jim Caldwell 2022",51,"Jim Caldwell",67,0,2022,2,"Former Head Coach",2,0,18,18,1,0,1,0,0,0
+"Jim Harbaugh 2022",52,"Jim Harbaugh",58,0,2022,1,"Former Head Coach",2,14,6,20,0,1,0,0,0,0
+"Jim Schwartz 2015",53,"Jim Schwartz",48,0,2015,1,"Defensive Coordinator",4,0,22,22,0,1,0,0,1,0
+"Jim Schwartz 2018",53,"Jim Schwartz",51,0,2018,1,"Defensive Coordinator",4,0,24,24,0,1,0,0,1,0
+"Jim Schwartz 2020",53,"Jim Schwartz",53,0,2020,1,"Defensive Coordinator",4,0,26,26,0,1,0,0,1,0
+"Jim Tomsula 2015",54,"Jim Tomsula",46,1,2015,1,"Other NFL Job",5,0,9,9,0,1,0,0,0,0
+"Joe Brady 2021",55,"Joe Brady",31,0,2021,3,"Offensive Coordinator",3,0,3,3,0,1,0,1,0,0
+"Joe Judge 2020",56,"Joe Judge",38,1,2020,1,"Other NFL Job",5,0,8,8,0,1,0,0,0,0
+"Joe Lombardi 2022",57,"Joe Lombardi",50,0,2022,1,"Offensive Coordinator",3,0,16,16,0,1,0,1,0,0
+"Joe Philbin 2019",58,"Joe Philbin",57,0,2019,1,"Offensive Coordinator",3,0,18,18,0,1,0,1,0,0
+"John DeFilippo 2016",59,"John DeFilippo",37,0,2016,1,"Offensive Coordinator",3,0,9,9,0,1,0,1,0,0
+"John DeFilippo 2018",59,"John DeFilippo",39,0,2018,2,"Other NFL Job",5,0,15,15,0,1,0,0,0,0
+"John Fassel 2017",60,"John Fassel",43,0,2017,1,"Head Coach Previous Season",1,0,12,12,0,1,0,0,0,1
+"John Fox 2015",61,"John Fox",60,1,2015,1,"Head Coach Previous Season",1,0,26,26,0,1,0,0,0,1
+"Jon Gruden 2018",62,"Jon Gruden",54,1,2018,1,"Former Head Coach",2,0,18,18,0,1,0,0,0,0
+"Jonathan Gannon 2022",63,"Jonathan Gannon",39,0,2022,3,"Defensive Coordinator",4,0,14,14,0,1,0,0,1,0
+"Josh McCown 2021",64,"Josh McCown",41,0,2021,1,"Other NFL Job",5,16,0,16,0,1,0,0,0,0
+"Josh McCown 2022",64,"Josh McCown",42,0,2022,1,"Other NFL Job",5,16,0,16,0,1,0,0,0,0
+"Josh McDaniels 2015",65,"Josh McDaniels",38,0,2015,2,"Defensive Coordinator",4,0,14,14,0,1,0,0,1,0
+"Josh McDaniels 2017",65,"Josh McDaniels",40,0,2017,3,"Offensive Coordinator",3,0,16,16,0,1,0,1,0,0
+"Josh McDaniels 2018",65,"Josh McDaniels",41,0,2018,3,"Offensive Coordinator",3,0,17,17,0,1,0,1,0,0
+"Josh McDaniels 2019",65,"Josh McDaniels",42,0,2019,1,"Offensive Coordinator",3,0,18,18,0,1,0,1,0,0
+"Josh McDaniels 2020",65,"Josh McDaniels",43,0,2020,2,"Offensive Coordinator",3,0,19,19,0,1,0,1,0,0
+"Josh McDaniels 2021",65,"Josh McDaniels",44,0,2021,1,"Offensive Coordinator",3,0,20,20,0,1,0,1,0,0
+"Josh McDaniels 2022",65,"Josh McDaniels",45,1,2022,1,"Offensive Coordinator",3,0,21,21,0,1,0,1,0,0
+"Keith Armstrong 2015",66,"Keith Armstrong",51,0,2015,1,"Other NFL Job",5,0,10,10,1,0,1,0,0,0
+"Keith Armstrong 2018",66,"Keith Armstrong",54,0,2018,1,"Other NFL Job",5,0,14,14,1,0,1,0,0,0
+"Kellen Moore 2021",67,"Kellen Moore",32,0,2021,1,"Offensive Coordinator",3,1,3,4,0,1,0,1,0,0
+"Kellen Moore 2022",67,"Kellen Moore",33,0,2022,3,"Offensive Coordinator",3,1,4,5,0,1,0,1,0,0
+"Kevin O'Connell 2022",68,"Kevin O'Connell",36,1,2022,3,"Offensive Coordinator",3,1,7,8,0,1,0,1,0,0
+"Kevin Stefanski 2019",69,"Kevin Stefanski",36,0,2019,1,"Other NFL Job",5,0,13,13,0,1,0,0,0,0
+"Kevin Stefanski 2020",69,"Kevin Stefanski",37,1,2020,1,"Offensive Coordinator",3,0,14,14,0,1,0,1,0,0
+"Kliff Kingsbury 2019",70,"Kliff Kingsbury",39,1,2019,2,"College Coach",6,1,0,1,0,1,0,0,0,0
+"Kris Richard 2017",71,"Kris Richard",37,0,2017,1,"Defensive Coordinator",4,4,7,11,1,0,1,0,1,0
+"Kris Richard 2018",71,"Kris Richard",38,0,2018,1,"Defensive Coordinator",4,4,8,12,1,0,1,0,1,0
+"Kris Richard 2019",71,"Kris Richard",39,0,2019,3,"Other NFL Job",5,4,9,13,1,0,1,0,0,0
+"Kris Richard 2020",71,"Kris Richard",40,0,2020,1,"Other NFL Job",5,4,10,14,1,0,1,0,0,0
+"Kyle Shanahan 2015",72,"Kyle Shanahan",35,0,2015,1,"Offensive Coordinator",3,0,11,11,0,1,0,1,0,0
+"Kyle Shanahan 2017",72,"Kyle Shanahan",37,1,2017,3,"Offensive Coordinator",3,0,13,13,0,1,0,1,0,0
+"Leslie Frazier 2018",73,"Leslie Frazier",58,0,2018,1,"Defensive Coordinator",4,5,20,25,1,0,1,0,1,0
+"Leslie Frazier 2021",73,"Leslie Frazier",61,0,2021,1,"Defensive Coordinator",4,5,23,28,1,0,1,0,1,0
+"Leslie Frazier 2022",73,"Leslie Frazier",62,0,2022,3,"Defensive Coordinator",4,5,24,29,1,0,1,0,1,0
+"Lou Anarumo 2022",74,"Lou Anarumo",55,0,2022,1,"Defensive Coordinator",4,0,10,10,0,1,0,0,1,0
+"Lovie Smith 2022",75,"Lovie Smith",63,1,2022,1,"Defensive Coordinator",4,0,20,20,1,0,1,0,1,0
+"Luke Getsy 2022",76,"Luke Getsy",37,0,2022,1,"Other NFL Job",5,0,7,7,0,0,0,0,0,0
+"Marvin Lewis 2020",77,"Marvin Lewis",61,0,2020,2,"Former Head Coach",2,1,27,28,1,0,1,0,0,0
+"Marvin Lewis 2021",77,"Marvin Lewis",62,0,2021,2,"Former Head Coach",2,1,27,28,1,0,1,0,0,0
+"Matt Eberflus 2019",78,"Matt Eberflus",48,0,2019,1,"Defensive Coordinator",4,0,10,10,0,1,0,0,1,0
+"Matt Eberflus 2021",78,"Matt Eberflus",50,0,2021,3,"Defensive Coordinator",4,0,12,12,0,1,0,0,1,0
+"Matt Eberflus 2022",78,"Matt Eberflus",51,1,2022,1,"Defensive Coordinator",4,0,13,13,0,1,0,0,1,0
+"Matt Lafleur 2018",79,"Matt Lafleur",38,0,2018,1,"Offensive Coordinator",3,0,9,9,0,1,0,1,0,0
+"Matt LaFleur 2019",80,"Matt LaFleur",39,1,2019,1,"Offensive Coordinator",3,0,10,10,0,1,0,1,0,0
+"Matt Nagy 2018",81,"Matt Nagy",39,1,2018,2,"Offensive Coordinator",3,0,10,10,0,1,0,1,0,0
+"Matt Patricia 2016",82,"Matt Patricia",41,0,2016,1,"Defensive Coordinator",4,0,12,12,0,1,0,0,1,0
+"Matt Patricia 2017",82,"Matt Patricia",42,0,2017,2,"Defensive Coordinator",4,0,13,13,0,1,0,0,1,0
+"Matt Patricia 2018",82,"Matt Patricia",43,1,2018,3,"Defensive Coordinator",4,0,14,14,0,1,0,0,1,0
+"Matt Rhule 2018",83,"Matt Rhule",43,0,2018,1,"College Coach",6,0,1,1,0,1,0,0,0,0
+"Matt Rhule 2019",83,"Matt Rhule",44,0,2019,1,"College Coach",6,0,1,1,0,1,0,0,0,0
+"Matt Rhule 2020",83,"Matt Rhule",45,1,2020,1,"College Coach",6,0,1,1,0,1,0,0,0,0
+"Mike McCarthy 2019",84,"Mike McCarthy",55,0,2019,1,"Former Head Coach",2,0,26,26,0,1,0,0,0,0
+"Mike McCarthy 2020",84,"Mike McCarthy",56,1,2020,4,"Former Head Coach",2,0,26,26,0,1,0,0,0,0
+"Mike McDaniel 2022",85,"Mike McDaniel",38,1,2022,1,"Offensive Coordinator",3,0,15,15,0,0,1,1,0,0
+"Mike Mularkey 2016",86,"Mike Mularkey",54,1,2016,1,"Head Coach Previous Season",1,9,21,30,0,1,0,0,0,1
+"Mike Munchak 2018",87,"Mike Munchak",57,0,2018,1,"Other NFL Job",5,12,24,36,0,1,0,0,0,0
+"Mike Munchak 2019",87,"Mike Munchak",58,0,2019,1,"Other NFL Job",5,12,25,37,0,1,0,0,0,0
+"Mike Shanahan 2015",88,"Mike Shanahan",62,0,2015,3,"Former Head Coach",2,0,29,29,0,1,0,0,0,0
+"Mike Shanahan 2016",88,"Mike Shanahan",63,0,2016,2,"Former Head Coach",2,0,29,29,0,1,0,0,0,0
+"Mike Smith 2016",89,"Mike Smith",56,0,2016,2,"Former Head Coach",2,0,16,16,0,1,0,0,0,0
+"Mike Smith 2017",89,"Mike Smith",57,0,2017,2,"Defensive Coordinator",4,0,17,17,0,1,0,0,1,0
+"Mike Vrabel 2017",90,"Mike Vrabel",41,0,2017,1,"Other NFL Job",5,14,3,17,0,1,0,0,0,0
+"Mike Vrabel 2018",90,"Mike Vrabel",42,1,2018,3,"Defensive Coordinator",4,14,4,18,0,1,0,0,1,0
+"Nathaniel Hackett 2021",91,"Nathaniel Hackett",41,0,2021,1,"Offensive Coordinator",3,0,12,12,0,1,0,1,0,0
+"Nathaniel Hackett 2022",91,"Nathaniel Hackett",42,1,2022,3,"Offensive Coordinator",3,0,13,13,0,1,0,1,0,0
+"Nick Sirianni 2021",92,"Nick Sirianni",39,1,2021,1,"Offensive Coordinator",3,0,12,12,0,1,0,1,0,0
+"Pat Shurmur 2015",93,"Pat Shurmur",49,0,2015,2,"Offensive Coordinator",3,0,16,16,0,1,0,1,0,0
+"Pat Shurmur 2016",93,"Pat Shurmur",50,0,2016,1,"Former Head Coach",2,0,17,17,0,1,0,0,0,0
+"Pat Shurmur 2018",93,"Pat Shurmur",52,1,2018,4,"Offensive Coordinator",3,0,19,19,0,1,0,1,0,0
+"Patrick Graham 2022",94,"Patrick Graham",43,0,2022,1,"Defensive Coordinator",4,0,13,13,1,0,1,0,1,0
+"Pep Hamilton 2015",95,"Pep Hamilton",40,0,2015,1,"Offensive Coordinator",3,0,9,9,1,0,1,1,0,0
+"Perry Fewell 2020",96,"Perry Fewell",57,0,2020,1,"Head Coach Previous Season",1,0,22,22,1,0,1,0,0,1
+"Pete Carmichael Jr. 2019",97,"Pete Carmichael Jr.",47,0,2019,1,"Offensive Coordinator",3,0,19,19,0,1,0,1,0,0
+"Raheem Morris 2021",98,"Raheem Morris",44,0,2021,2,"Head Coach Previous Season",1,0,18,18,1,0,1,0,0,1
+"Raheem Morris 2022",98,"Raheem Morris",45,0,2022,1,"Defensive Coordinator",4,0,19,19,1,0,1,0,1,0
+"Ray Horton 2016",99,"Ray Horton",55,0,2016,1,"Defensive Coordinator",4,10,22,32,1,0,1,0,1,0
+"Rex Ryan 2015",100,"Rex Ryan",52,1,2015,3,"Former Head Coach",2,0,18,18,0,1,0,0,0,0
+"Rich Bisaccia 2022",101,"Rich Bisaccia",61,0,2022,2,"Head Coach Previous Season",1,0,20,20,0,1,0,0,0,1
+"Robert Saleh 2020",102,"Robert Saleh",41,0,2020,1,"Defensive Coordinator",4,0,15,15,0,0,1,0,1,0
+"Robert Saleh 2021",102,"Robert Saleh",42,1,2021,6,"Defensive Coordinator",4,0,16,16,0,0,1,0,1,0
+"Ron Rivera 2020",103,"Ron Rivera",58,1,2020,1,"Former Head Coach",2,9,23,32,0,0,1,0,0,0
+"Sean McDermott 2016",104,"Sean McDermott",41,0,2016,2,"Defensive Coordinator",4,0,16,16,0,1,0,0,1,0
+"Sean McDermott 2017",104,"Sean McDermott",42,1,2017,2,"Defensive Coordinator",4,0,18,18,0,1,0,0,1,0
+"Sean McVay 2017",105,"Sean McVay",31,1,2017,2,"Offensive Coordinator",3,0,8,8,0,1,0,1,0,0
+"Shane Waldron 2019",106,"Shane Waldron",39,0,2019,1,"Other NFL Job",5,0,5,5,0,1,0,0,0,0
+"Steve Spagnuolo 2016",107,"Steve Spagnuolo",56,0,2016,1,"Defensive Coordinator",4,0,18,18,0,1,0,0,1,0
+"Steve Spagnuolo 2018",107,"Steve Spagnuolo",58,0,2018,1,"Head Coach Previous Season",1,0,21,21,0,1,0,0,0,1
+"Steve Wilks 2017",108,"Steve Wilks",47,0,2017,1,"Other NFL Job",5,0,12,12,1,0,1,0,0,0
+"Steve Wilks 2018",108,"Steve Wilks",48,1,2018,3,"Defensive Coordinator",4,0,13,13,1,0,1,0,1,0
+"Tee Martin 2018",109,"Tee Martin",39,0,2018,1,"College Coach",6,2,0,2,1,0,1,0,0,0
+"Teryl Austin 2015",110,"Teryl Austin",49,0,2015,4,"Defensive Coordinator",4,0,11,11,1,0,1,0,1,0
+"Teryl Austin 2016",110,"Teryl Austin",50,0,2016,5,"Defensive Coordinator",4,0,12,12,1,0,1,0,1,0
+"Teryl Austin 2017",110,"Teryl Austin",51,0,2017,2,"Defensive Coordinator",4,0,13,13,1,0,1,0,1,0
+"Teryl Austin 2018",110,"Teryl Austin",52,0,2018,1,"Defensive Coordinator",4,0,14,14,1,0,1,0,1,0
+"Thomas Brown 2022",111,"Thomas Brown",35,0,2022,1,"Other NFL Job",5,0,2,2,1,0,1,0,0,0
+"Todd Bowles 2015",112,"Todd Bowles",51,1,2015,3,"Defensive Coordinator",4,8,17,25,1,0,1,0,1,0
+"Todd Bowles 2021",112,"Todd Bowles",57,0,2021,2,"Defensive Coordinator",4,8,23,31,1,0,1,0,1,0
+"Todd Bowles 2022",112,"Todd Bowles",58,0,2022,4,"Defensive Coordinator",4,8,24,32,1,0,1,0,1,0
+"Todd Monken 2019",113,"Todd Monken",53,0,2019,3,"Offensive Coordinator",3,0,7,7,0,1,0,1,0,0
+"Tom Cable 2015",114,"Tom Cable",50,0,2015,1,"Other NFL Job",5,0,9,9,0,1,0,0,0,0
+"Tom Cable 2017",114,"Tom Cable",52,0,2017,1,"Other NFL Job",5,0,11,11,0,1,0,0,0,0
+"Tom Coughlin 2016",115,"Tom Coughlin",69,0,2016,2,"Former Head Coach",2,0,27,27,0,1,0,0,0,0
+"Tom Coughlin 2017",115,"Tom Coughlin",70,0,2017,1,"Former Head Coach",2,0,27,27,0,1,0,0,0,0
+"Tony Sparano 2015",116,"Tony Sparano",52,0,2015,1,"Head Coach Previous Season",1,0,16,16,0,1,0,0,0,1
+"Urban Meyer 2021",117,"Urban Meyer",56,1,2021,1,"Former Head Coach",2,0,0,0,0,1,0,0,0,0
+"Vance Joseph 2015",118,"Vance Joseph",42,0,2015,1,"Other NFL Job",5,2,10,12,1,0,1,0,0,0
+"Vance Joseph 2017",118,"Vance Joseph",44,1,2017,1,"Defensive Coordinator",4,2,12,14,1,0,1,0,1,0
+"Vance Joseph 2019",118,"Vance Joseph",46,0,2019,1,"Head Coach Previous Season",1,2,14,16,1,0,1,0,0,1
+"Vance Joseph 2022",118,"Vance Joseph",49,0,2022,1,"Defensive Coordinator",4,2,17,19,1,0,1,0,1,0
+"Vic Fangio 2015",119,"Vic Fangio",56,0,2015,1,"Offensive Coordinator",3,0,28,28,0,1,0,1,0,0
+"Vic Fangio 2018",119,"Vic Fangio",59,0,2018,1,"Defensive Coordinator",4,0,31,31,0,1,0,0,1,0
+"Vic Fangio 2019",119,"Vic Fangio",60,1,2019,1,"Defensive Coordinator",4,0,32,32,0,1,0,0,1,0
+"Vic Fangio 2022",119,"Vic Fangio",63,0,2022,1,"Head Coach Previous Season",1,0,35,35,0,1,0,0,0,1
+"Winston Moss 2018",120,"Winston Moss",52,0,2018,1,"Other NFL Job",5,11,12,23,1,0,1,0,0,0
+"Zac Taylor 2019",121,"Zac Taylor",35,1,2019,3,"Other NFL Job",5,0,6,6,0,1,0,0,0,0

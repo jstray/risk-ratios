@@ -1,5 +1,5 @@
 # risk-ratios
-Workbook to teach the concept of risk ratios for data journalism applications, created by Jonathan Stray for the [NICAR 2022](https://schedules.ire.org/nicar-2022#3036) data journalism conference.
+Workbook to teach the concept of risk ratios for data journalism applications, created by Jonathan Stray for the [NICAR 2022](https://schedules.ire.org/nicar-2022#3036) data journalism conference. Open source, CC-BY.
 
 - [Worbook with answers](https://github.com/jstray/risk-ratios/blob/main/risk-ratios.ipynb)
 - [Workbook with blanks](https://github.com/jstray/risk-ratios/blob/main/risk-ratios-workbook.ipynb) to figure out the answers here
